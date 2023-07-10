@@ -50,6 +50,7 @@ class DefaultFirebaseOptions {
     projectId: 'flash-chat-bdcde',
     authDomain: 'flash-chat-bdcde.firebaseapp.com',
     storageBucket: 'flash-chat-bdcde.appspot.com',
+    measurementId: 'G-9XMZ0KN6PP',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
